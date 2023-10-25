@@ -1,7 +1,7 @@
 # LolaaDs-First-Repo
 
-##First Name
+## First Name
 
-##Something About Me
+## Something About Me
 
-##Favorite Food
+## Favorite Food
